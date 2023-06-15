@@ -27,7 +27,7 @@ THEN I find a concise, descriptive title
 	Added alt attributes to the <img> tags, providing descriptive text for each image.
 	The closing </div> after <div class="footer"> is replaced with </footer>.
 
-## Changes to Style.css 
+## Changes to Style.css
   Changed .header to header.
   Changed .header div to header nav.
   Added header nav ul li selector to style the navigation list items.
@@ -38,4 +38,3 @@ THEN I find a concise, descriptive title
   Updated the selector for .benefit-lead img, .benefit-brand img, and .benefit-cost img to .benefits article img.
   Changed .footer to footer.
 
-# challenge-01
